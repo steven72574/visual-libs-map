@@ -1,0 +1,1322 @@
+{
+  "note": "未经筛选的原始抓取结果（含非图形类项目），仅作为方法记录",
+  "updated": "2026-11-12",
+  "items": [
+    {
+      "repo": "mrdoob/three.js",
+      "stars": 118229,
+      "language": "JavaScript",
+      "last_push": "2026-11-12",
+      "description": "JavaScript 3D Library."
+    },
+    {
+      "repo": "bilawalsidhu/gods-eye-view",
+      "stars": 64452,
+      "language": "JavaScript",
+      "last_push": "2026-11-12",
+      "description": "A spy satellite simulator in your browser, except the data is real. Li"
+    },
+    {
+      "repo": "pixijs/pixijs",
+      "stars": 48678,
+      "language": "TypeScript",
+      "last_push": "2026-11-11",
+      "description": "The HTML5 Creation Engine: Create beautiful digital content with the f"
+    },
+    {
+      "repo": "phaserjs/phaser",
+      "stars": 40704,
+      "language": "JavaScript",
+      "last_push": "2026-08-21",
+      "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 game"
+    },
+    {
+      "repo": "BabylonJS/Babylon.js",
+      "stars": 26330,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "Babylon.js is a powerful, beautiful, simple, and open game and renderi"
+    },
+    {
+      "repo": "xtermjs/xterm.js",
+      "stars": 21350,
+      "language": "TypeScript",
+      "last_push": "2026-11-08",
+      "description": "A terminal for the web"
+    },
+    {
+      "repo": "img2threejs/img2threejs",
+      "stars": 21246,
+      "language": "Python",
+      "last_push": "2026-11-05",
+      "description": "Rebuild the object in a reference image as a code-only, procedural, qu"
+    },
+    {
+      "repo": "google/filament",
+      "stars": 20740,
+      "language": "C++",
+      "last_push": "2026-11-12",
+      "description": "Filament is a real-time physically based rendering engine for Android,"
+    },
+    {
+      "repo": "lettier/3d-game-shaders-for-beginners",
+      "stars": 20042,
+      "language": "C++",
+      "last_push": "2023-06-25",
+      "description": "🎮 A step-by-step guide to implementing SSAO, depth of field, lighting"
+    },
+    {
+      "repo": "tensorflow/tfjs",
+      "stars": 19158,
+      "language": "TypeScript",
+      "last_push": "2026-06-23",
+      "description": "A WebGL accelerated JavaScript library for training and deploying ML m"
+    },
+    {
+      "repo": "pmndrs/react-three-fiber",
+      "stars": 33675,
+      "language": "TypeScript",
+      "last_push": "2026-10-21",
+      "description": "🇨🇭 A React renderer for Three.js"
+    },
+    {
+      "repo": "pascalorg/editor",
+      "stars": 25461,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "Open-source 3D architecture software for AECO, scan-to-BIM. Agent-frie"
+    },
+    {
+      "repo": "aframevr/aframe",
+      "stars": 17699,
+      "language": "JavaScript",
+      "last_push": "2026-07-13",
+      "description": ":a: Web framework for building virtual reality experiences."
+    },
+    {
+      "repo": "lemomo-ai/lemo-opuscar",
+      "stars": 15177,
+      "language": "JavaScript",
+      "last_push": "2026-11-12",
+      "description": "A toolbox of film styles made in code for Claude Code: 99 ready to use"
+    },
+    {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "stars": 14998,
+      "language": "-",
+      "last_push": "2026-10-13",
+      "description": "A growing collection of viral videos made with Claude Opus 5.5 and the"
+    },
+    {
+      "repo": "theatre-js/theatre",
+      "stars": 12979,
+      "language": "TypeScript",
+      "last_push": "2024-08-14",
+      "description": "Motion design editor for the web"
+    },
+    {
+      "repo": "pmndrs/drei",
+      "stars": 10150,
+      "language": "JavaScript",
+      "last_push": "2026-10-21",
+      "description": "🥉 useful helpers for react-three-fiber"
+    },
+    {
+      "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+      "stars": 8520,
+      "language": "Python",
+      "last_push": "2026-11-12",
+      "description": "Make games with your AI coding agent: 79 game-dev skills and a router "
+    },
+    {
+      "repo": "tengbao/vanta",
+      "stars": 7366,
+      "language": "JavaScript",
+      "last_push": "2024-03-03",
+      "description": "Animated 3D backgrounds for your website"
+    },
+    {
+      "repo": "gpujs/gpu.js",
+      "stars": 15526,
+      "language": "JavaScript",
+      "last_push": "2026-11-03",
+      "description": "GPU Accelerated JavaScript"
+    },
+    {
+      "repo": "SaschaWillems/Vulkan",
+      "stars": 12212,
+      "language": "GLSL",
+      "last_push": "2026-11-09",
+      "description": "C++ examples for the Vulkan graphics API"
+    },
+    {
+      "repo": "fogleman/Craft",
+      "stars": 11145,
+      "language": "C",
+      "last_push": "2024-04-03",
+      "description": "A simple Minecraft clone written in C using modern OpenGL (shaders)."
+    },
+    {
+      "repo": "olive-editor/olive",
+      "stars": 9156,
+      "language": "C++",
+      "last_push": "2024-12-05",
+      "description": "Free open-source non-linear video editor"
+    },
+    {
+      "repo": "patriciogonzalezvivo/thebookofshaders",
+      "stars": 7074,
+      "language": "GLSL",
+      "last_push": "2026-02-28",
+      "description": "Step-by-step guide through the abstract and complex universe of Fragme"
+    },
+    {
+      "repo": "RodZill4/material-maker",
+      "stars": 6252,
+      "language": "GDScript",
+      "last_push": "2026-11-11",
+      "description": "A procedural textures authoring and 3D model painting tool based on th"
+    },
+    {
+      "repo": "shader-slang/slang",
+      "stars": 5807,
+      "language": "C++",
+      "last_push": "2026-11-12",
+      "description": "Making it easier to work with shaders"
+    },
+    {
+      "repo": "crosire/reshade",
+      "stars": 5669,
+      "language": "C++",
+      "last_push": "2026-09-24",
+      "description": "A generic post-processing injector for games and video software."
+    },
+    {
+      "repo": "ssloy/tinyrenderer",
+      "stars": 24512,
+      "language": "C++",
+      "last_push": "2026-07-29",
+      "description": "A brief computer graphics / rendering course"
+    },
+    {
+      "repo": "terkelg/awesome-creative-coding",
+      "stars": 15590,
+      "language": "HTML",
+      "last_push": "2026-07-21",
+      "description": "Creative Coding: Generative Art, Data visualization, Interaction Desig"
+    },
+    {
+      "repo": "EmbarkStudios/rust-gpu",
+      "stars": 7553,
+      "language": "Rust",
+      "last_push": "2025-10-31",
+      "description": "🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧"
+    },
+    {
+      "repo": "MengTo/threeui",
+      "stars": 7248,
+      "language": "HTML",
+      "last_push": "2026-09-03",
+      "description": "Open-source ThreeUI Community catalog with live interactive components"
+    },
+    {
+      "repo": "michidk/Unity-Script-Collection",
+      "stars": 6402,
+      "language": "CSS",
+      "last_push": "2026-11-01",
+      "description": "A maintained collection of useful & free unity scripts / library's / p"
+    },
+    {
+      "repo": "shader-effects-inc/shaders",
+      "stars": 5913,
+      "language": "TypeScript",
+      "last_push": "2026-11-11",
+      "description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer"
+    },
+    {
+      "repo": "ConfettiFX/The-Forge",
+      "stars": 5814,
+      "language": "C++",
+      "last_push": "2026-08-27",
+      "description": "The Forge Cross-Platform Framework PC Windows, Steamdeck (native), Ray"
+    },
+    {
+      "repo": "GraphiteEditor/Graphite",
+      "stars": 27920,
+      "language": "Rust",
+      "last_push": "2026-11-12",
+      "description": "Community-built comprehensive 2D content creation appplication for gra"
+    },
+    {
+      "repo": "processing/p5.js",
+      "stars": 24339,
+      "language": "JavaScript",
+      "last_push": "2026-11-11",
+      "description": "p5.js is a client-side JS platform that empowers artists, designers, s"
+    },
+    {
+      "repo": "openframeworks/openFrameworks",
+      "stars": 10465,
+      "language": "C++",
+      "last_push": "2026-11-12",
+      "description": "openFrameworks is a community-developed cross platform toolkit for cre"
+    },
+    {
+      "repo": "nannou-org/nannou",
+      "stars": 6782,
+      "language": "Rust",
+      "last_push": "2026-11-09",
+      "description": "A Creative Coding Framework for Rust."
+    },
+    {
+      "repo": "css-doodle/css-doodle",
+      "stars": 6082,
+      "language": "JavaScript",
+      "last_push": "2026-11-07",
+      "description": "A web component for visual art and creative coding"
+    },
+    {
+      "repo": "DavidHDev/canvas-ui",
+      "stars": 5402,
+      "language": "TypeScript",
+      "last_push": "2026-11-08",
+      "description": "A library of creative canvas components. Real HTML with WebGL effects "
+    },
+    {
+      "repo": "williamngan/pts",
+      "stars": 5365,
+      "language": "TypeScript",
+      "last_push": "2026-10-28",
+      "description": "A library for visualization and creative-coding"
+    },
+    {
+      "repo": "invoke-ai/InvokeAI",
+      "stars": 29076,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "Invoke is a leading creative engine that uses image and video generati"
+    },
+    {
+      "repo": "marceloprates/prettymaps",
+      "stars": 14338,
+      "language": "Python",
+      "last_push": "2026-07-30",
+      "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib"
+    },
+    {
+      "repo": "steven2358/awesome-generative-ai",
+      "stars": 12831,
+      "language": "-",
+      "last_push": "2026-10-30",
+      "description": "A curated list of modern Generative Artificial Intelligence projects a"
+    },
+    {
+      "repo": "easydiffusion/easydiffusion",
+      "stars": 10476,
+      "language": "JavaScript",
+      "last_push": "2026-11-05",
+      "description": "An easy 1-click way to create beautiful artwork on your PC using AI, w"
+    },
+    {
+      "repo": "ai-collection/ai-collection",
+      "stars": 9284,
+      "language": "-",
+      "last_push": "2026-11-04",
+      "description": "The Generative AI Landscape - A Collection of Awesome Generative AI Ap"
+    },
+    {
+      "repo": "jamez-bondos/awesome-gpt4o-images",
+      "stars": 8165,
+      "language": "JavaScript",
+      "last_push": "2025-05-26",
+      "description": "Awesome curated collection of images and prompts generated by GPT-4o a"
+    },
+    {
+      "repo": "vladmandic/sdnext",
+      "stars": 7378,
+      "language": "Python",
+      "last_push": "2026-11-11",
+      "description": "SD.Next: All-in-one WebUI for AI generative image and video creation, "
+    },
+    {
+      "repo": "alchaincyf/huashu-art-motion",
+      "stars": 6801,
+      "language": "JavaScript",
+      "last_push": "2026-11-10",
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。"
+    },
+    {
+      "repo": "mlc-ai/web-llm",
+      "stars": 19372,
+      "language": "TypeScript",
+      "last_push": "2026-11-10",
+      "description": "High-performance In-browser LLM Inference Engine "
+    },
+    {
+      "repo": "gfx-rs/wgpu",
+      "stars": 18524,
+      "language": "Rust",
+      "last_push": "2026-11-11",
+      "description": "A cross-platform, safe, pure-Rust graphics API."
+    },
+    {
+      "repo": "playcanvas/engine",
+      "stars": 17274,
+      "language": "JavaScript",
+      "last_push": "2026-11-12",
+      "description": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF"
+    },
+    {
+      "repo": "tracel-ai/burn",
+      "stars": 16269,
+      "language": "Rust",
+      "last_push": "2026-11-12",
+      "description": "Burn is a next generation tensor library and Deep Learning Framework t"
+    },
+    {
+      "repo": "supertone-oss-archive/supertonic",
+      "stars": 13754,
+      "language": "Swift",
+      "last_push": "2026-09-09",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONN"
+    },
+    {
+      "repo": "playcanvas/supersplat",
+      "stars": 10637,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "3D Gaussian Splat Editor"
+    },
+    {
+      "repo": "cocos/cocos-engine",
+      "stars": 9919,
+      "language": "C++",
+      "last_push": "2026-10-28",
+      "description": "Cocos simplifies game creation and distribution with Cocos Creator, a "
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "stars": 83259,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "Write HTML. Render video. Built for agents."
+    },
+    {
+      "repo": "Vincentwei1021/video-shotcraft",
+      "stars": 18930,
+      "language": "TypeScript",
+      "last_push": "2026-11-11",
+      "description": "AI video skill for Claude Code & Codex — cinematic, editable product p"
+    },
+    {
+      "repo": "mojs/mojs",
+      "stars": 18901,
+      "language": "CoffeeScript",
+      "last_push": "2026-07-30",
+      "description": "The motion graphics toolbelt for the web"
+    },
+    {
+      "repo": "nexu-io/openmotion",
+      "stars": 9657,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "The open-source full-stack studio for Opus 5.5 motion video. Reverse e"
+    },
+    {
+      "repo": "storytold/effectcraft",
+      "stars": 8679,
+      "language": "Rust",
+      "last_push": "2026-11-12",
+      "description": "EffectCraft: An open-source motion graphics and compositing tool writt"
+    },
+    {
+      "repo": "openfilm/openfilm",
+      "stars": 5902,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "The open source AI video agent: turns any coding agent into a video ag"
+    },
+    {
+      "repo": "nerfstudio-project/nerfstudio",
+      "stars": 12202,
+      "language": "Python",
+      "last_push": "2025-07-29",
+      "description": "A collaboration friendly studio for NeRFs"
+    },
+    {
+      "repo": "MrNeRF/awesome-3D-gaussian-splatting",
+      "stars": 9003,
+      "language": "Python",
+      "last_push": "2026-10-04",
+      "description": "Curated list of papers and resources focused on 3D Gaussian Splatting,"
+    },
+    {
+      "repo": "nerfstudio-project/gsplat",
+      "stars": 5893,
+      "language": "Python",
+      "last_push": "2026-09-19",
+      "description": "CUDA accelerated rasterization of gaussian splatting"
+    },
+    {
+      "repo": "ArthurBrussee/brush",
+      "stars": 5292,
+      "language": "Rust",
+      "last_push": "2026-10-03",
+      "description": "3D Reconstruction for all"
+    },
+    {
+      "repo": "NVIDIAGameWorks/kaolin",
+      "stars": 5195,
+      "language": "Python",
+      "last_push": "2026-10-25",
+      "description": "A PyTorch Library for Accelerating 3D Deep Learning Research"
+    },
+    {
+      "repo": "hku-mars/FAST-LIVO2",
+      "stars": 4869,
+      "language": "C++",
+      "last_push": "2026-03-08",
+      "description": "FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry"
+    },
+    {
+      "repo": "hustvl/4DGaussians",
+      "stars": 4023,
+      "language": "Jupyter Notebook",
+      "last_push": "2024-10-27",
+      "description": "[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Renderin"
+    },
+    {
+      "repo": "MrNeRF/LichtFeld-Studio",
+      "stars": 3992,
+      "language": "C++",
+      "last_push": "2026-11-12",
+      "description": "Train, inspect, edit, automate, and export 3D Gaussian Splatting scene"
+    },
+    {
+      "repo": "3b1b/manim",
+      "stars": 96446,
+      "language": "Python",
+      "last_push": "2026-09-09",
+      "description": "Animation engine for explanatory math videos"
+    },
+    {
+      "repo": "animate-css/animate.css",
+      "stars": 82992,
+      "language": "CSS",
+      "last_push": "2024-07-29",
+      "description": "🍿 A cross-browser library of CSS animations. As easy to use as an eas"
+    },
+    {
+      "repo": "MisterBooo/LeetCodeAnimation",
+      "stars": 76708,
+      "language": "Java",
+      "last_push": "2026-06-12",
+      "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动"
+    },
+    {
+      "repo": "juliangarnier/anime",
+      "stars": 74535,
+      "language": "JavaScript",
+      "last_push": "2026-11-02",
+      "description": "JavaScript animation engine"
+    },
+    {
+      "repo": "emilkowalski/skills",
+      "stars": 56307,
+      "language": "Markdown",
+      "last_push": "2026-11-12",
+      "description": "Skills for Designers and Engineers."
+    },
+    {
+      "repo": "algorithm-visualizer/algorithm-visualizer",
+      "stars": 49486,
+      "language": "JavaScript",
+      "last_push": "2024-06-09",
+      "description": ":fireworks:Interactive Online Platform that Visualizes Algorithms from"
+    },
+    {
+      "repo": "aseprite/aseprite",
+      "stars": 40883,
+      "language": "C++",
+      "last_push": "2026-11-10",
+      "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)"
+    },
+    {
+      "repo": "airbnb/lottie-android",
+      "stars": 35774,
+      "language": "Java",
+      "last_push": "2026-02-15",
+      "description": "Render After Effects animations natively on Android and iOS, Web, and "
+    },
+    {
+      "repo": "motiondivision/motion",
+      "stars": 35091,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "A modern animation library for React and JavaScript"
+    },
+    {
+      "repo": "d3/d3",
+      "stars": 113918,
+      "language": "Shell",
+      "last_push": "2026-11-03",
+      "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_u"
+    },
+    {
+      "repo": "netdata/netdata",
+      "stars": 81382,
+      "language": "Go",
+      "last_push": "2026-11-12",
+      "description": "The fastest path to AI-powered full stack observability, even for lean"
+    },
+    {
+      "repo": "grafana/grafana",
+      "stars": 77860,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "The open and composable observability and data visualization platform."
+    },
+    {
+      "repo": "apache/superset",
+      "stars": 75496,
+      "language": "Python",
+      "last_push": "2026-11-12",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
+    },
+    {
+      "repo": "apache/echarts",
+      "stars": 67706,
+      "language": "TypeScript",
+      "last_push": "2026-10-13",
+      "description": "Apache ECharts is a powerful, interactive charting and data visualizat"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "stars": 66679,
+      "language": "HTML",
+      "last_push": "2026-11-12",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Curso"
+    },
+    {
+      "repo": "metabase/metabase",
+      "stars": 50301,
+      "language": "Clojure",
+      "last_push": "2026-11-12",
+      "description": "The easy-to-use open source Business Intelligence and Embedded Analyti"
+    },
+    {
+      "repo": "streamlit/streamlit",
+      "stars": 46329,
+      "language": "Python",
+      "last_push": "2026-11-12",
+      "description": "Streamlit — A faster way to build and share data apps."
+    },
+    {
+      "repo": "gradio-app/gradio",
+      "stars": 44035,
+      "language": "Python",
+      "last_push": "2026-11-12",
+      "description": "Build and share delightful machine learning apps, all in Python. 🌟 St"
+    },
+    {
+      "repo": "plouc/nivo",
+      "stars": 14136,
+      "language": "TypeScript",
+      "last_push": "2026-07-21",
+      "description": "nivo provides a rich set of dataviz components, built on top of the aw"
+    },
+    {
+      "repo": "rougier/scientific-visualization-book",
+      "stars": 11684,
+      "language": "Python",
+      "last_push": "2026-01-04",
+      "description": "An open access book on scientific visualization using python and matpl"
+    },
+    {
+      "repo": "GoAdminGroup/go-admin",
+      "stars": 9017,
+      "language": "Go",
+      "last_push": "2025-06-24",
+      "description": "A golang framework helps gopher to build a data visualization and admi"
+    },
+    {
+      "repo": "pa7/heatmap.js",
+      "stars": 6381,
+      "language": "JavaScript",
+      "last_push": "2023-10-31",
+      "description": "🔥 JavaScript Library for HTML5 canvas based heatmaps"
+    },
+    {
+      "repo": "holoviz/panel",
+      "stars": 5824,
+      "language": "Python",
+      "last_push": "2026-11-11",
+      "description": "Panel: The powerful data exploration & web app framework for Python"
+    },
+    {
+      "repo": "hal9ai/awesome-dataviz",
+      "stars": 4459,
+      "language": "JavaScript",
+      "last_push": "2026-11-11",
+      "description": "A curated list of awesome data visualization libraries and resources."
+    },
+    {
+      "repo": "swimlane/ngx-charts",
+      "stars": 4357,
+      "language": "TypeScript",
+      "last_push": "2026-10-29",
+      "description": ":bar_chart: Declarative Charting Framework for Angular"
+    },
+    {
+      "repo": "gee-community/geemap",
+      "stars": 4071,
+      "language": "Python",
+      "last_push": "2026-11-11",
+      "description": "A Python package for interactive geospatial analysis and visualization"
+    },
+    {
+      "repo": "opengeos/leafmap",
+      "stars": 3800,
+      "language": "Python",
+      "last_push": "2026-11-10",
+      "description": "A Python package for interactive mapping and geospatial analysis with "
+    },
+    {
+      "repo": "britecharts/britecharts",
+      "stars": 3721,
+      "language": "TypeScript",
+      "last_push": "2026-11-04",
+      "description": "Finished, accessible charts that any page, and any agent, can add with"
+    },
+    {
+      "repo": "tt-a1i/archify",
+      "stars": 95836,
+      "language": "JavaScript",
+      "last_push": "2026-11-12",
+      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram."
+    },
+    {
+      "repo": "NaiboWang/EasySpider",
+      "stars": 44784,
+      "language": "JavaScript",
+      "last_push": "2026-11-07",
+      "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页"
+    },
+    {
+      "repo": "AykutSarac/jsoncrack.com",
+      "stars": 44593,
+      "language": "TypeScript",
+      "last_push": "2026-09-14",
+      "description": "✨ Innovative and open-source visualization application that transforms"
+    },
+    {
+      "repo": "getredash/redash",
+      "stars": 28879,
+      "language": "TypeScript",
+      "last_push": "2026-11-10",
+      "description": "Make Your Company Data Driven. Connect to any data source, easily visu"
+    },
+    {
+      "repo": "chartdb/chartdb",
+      "stars": 23115,
+      "language": "TypeScript",
+      "last_push": "2026-11-01",
+      "description": "Database diagrams editor that allows you to visualize and design your "
+    },
+    {
+      "repo": "thingsboard/thingsboard",
+      "stars": 22671,
+      "language": "Java",
+      "last_push": "2026-11-12",
+      "description": "All-in-one IoT Platform - Device management, data collection, processi"
+    },
+    {
+      "repo": "excalidraw/excalidraw",
+      "stars": 135559,
+      "language": "TypeScript",
+      "last_push": "2026-11-11",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams"
+    },
+    {
+      "repo": "chartjs/Chart.js",
+      "stars": 67794,
+      "language": "JavaScript",
+      "last_push": "2026-11-09",
+      "description": "Simple HTML5 Charts using the <canvas> tag"
+    },
+    {
+      "repo": "tldraw/tldraw",
+      "stars": 51387,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "Build infinite canvas apps in React with the tldraw SDK. World's best,"
+    },
+    {
+      "repo": "rough-stuff/rough",
+      "stars": 21377,
+      "language": "HTML",
+      "last_push": "2024-07-28",
+      "description": "Create graphics with a hand-drawn, sketchy, appearance"
+    },
+    {
+      "repo": "liabru/matter-js",
+      "stars": 18619,
+      "language": "JavaScript",
+      "last_push": "2026-09-30",
+      "description": "a 2D rigid body physics engine for the web ▲● ■"
+    },
+    {
+      "repo": "opencv/opencv",
+      "stars": 91548,
+      "language": "C++",
+      "last_push": "2026-11-11",
+      "description": "Open Source Computer Vision Library"
+    },
+    {
+      "repo": "roboflow/supervision",
+      "stars": 51597,
+      "language": "Python",
+      "last_push": "2026-11-12",
+      "description": "We write your reusable computer vision tools. 💜"
+    },
+    {
+      "repo": "ocrmypdf/OCRmyPDF",
+      "stars": 35301,
+      "language": "Python",
+      "last_push": "2026-11-09",
+      "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to"
+    },
+    {
+      "repo": "lovell/sharp",
+      "stars": 32840,
+      "language": "JavaScript",
+      "last_push": "2026-11-12",
+      "description": "High performance Node.js image processing, the fastest module to resiz"
+    },
+    {
+      "repo": "JaidedAI/EasyOCR",
+      "stars": 30139,
+      "language": "Python",
+      "last_push": "2025-12-05",
+      "description": "Ready-to-use OCR with 80+ supported languages and all popular writing "
+    },
+    {
+      "repo": "danielgatis/rembg",
+      "stars": 25437,
+      "language": "Python",
+      "last_push": "2026-11-06",
+      "description": "Rembg is a tool to remove images background"
+    },
+    {
+      "repo": "amusi/CVPR2026-Papers-with-Code",
+      "stars": 22958,
+      "language": "-",
+      "last_push": "2026-03-08",
+      "description": "CVPR 2026 论文和开源项目合集"
+    },
+    {
+      "repo": "ImageMagick/ImageMagick",
+      "stars": 17850,
+      "language": "C",
+      "last_push": "2026-11-12",
+      "description": "ImageMagick is a free, open-source software suite for creating, editin"
+    },
+    {
+      "repo": "lukas-blecher/LaTeX-OCR",
+      "stars": 16619,
+      "language": "Python",
+      "last_push": "2025-01-18",
+      "description": "pix2tex: Using a ViT to convert images of equations into LaTeX code."
+    },
+    {
+      "repo": "taichi-dev/taichi",
+      "stars": 28457,
+      "language": "C++",
+      "last_push": "2026-10-05",
+      "description": "Productive, portable, and performant GPU programming in Python."
+    },
+    {
+      "repo": "junyanz/pytorch-CycleGAN-and-pix2pix",
+      "stars": 25279,
+      "language": "Python",
+      "last_push": "2025-08-06",
+      "description": "Image-to-Image Translation in PyTorch"
+    },
+    {
+      "repo": "graphdeco-inria/gaussian-splatting",
+      "stars": 24460,
+      "language": "Python",
+      "last_push": "2025-10-17",
+      "description": "Original reference implementation of \"3D Gaussian Splatting for Real-T"
+    },
+    {
+      "repo": "blender/blender",
+      "stars": 21918,
+      "language": "C++",
+      "last_push": "2026-11-12",
+      "description": "Official mirror of Blender"
+    },
+    {
+      "repo": "bloc97/Anime4K",
+      "stars": 21630,
+      "language": "Jupyter Notebook",
+      "last_push": "2024-08-17",
+      "description": "A High-Quality Real Time Upscaler for Anime Video"
+    },
+    {
+      "repo": "NVlabs/instant-ngp",
+      "stars": 17595,
+      "language": "Cuda",
+      "last_push": "2026-02-02",
+      "description": "Instant neural graphics primitives: lightning fast NeRF and more"
+    },
+    {
+      "repo": "isl-org/Open3D",
+      "stars": 14200,
+      "language": "C++",
+      "last_push": "2026-11-11",
+      "description": "Open3D: A Modern Library for 3D Data Processing"
+    },
+    {
+      "repo": "DavidHDev/react-bits",
+      "stars": 51793,
+      "language": "JavaScript",
+      "last_push": "2026-11-10",
+      "description": "The largest open-source library of animated, interactive, and customiz"
+    },
+    {
+      "repo": "FreeCAD/FreeCAD",
+      "stars": 35390,
+      "language": "C++",
+      "last_push": "2026-11-12",
+      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3"
+    },
+    {
+      "repo": "4ian/GDevelop",
+      "stars": 28765,
+      "language": "JavaScript",
+      "last_push": "2026-11-12",
+      "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed "
+    },
+    {
+      "repo": "libgdx/libgdx",
+      "stars": 25523,
+      "language": "Java",
+      "last_push": "2026-11-08",
+      "description": "Desktop/Android/HTML5/iOS Java game development framework"
+    },
+    {
+      "repo": "aidenybai/react-scan",
+      "stars": 21882,
+      "language": "TypeScript",
+      "last_push": "2026-08-16",
+      "description": "Scan and fix React performance issues"
+    },
+    {
+      "repo": "aidenybai/million",
+      "stars": 17665,
+      "language": "TypeScript",
+      "last_push": "2026-05-20",
+      "description": "Optimizing compiler for React"
+    },
+    {
+      "repo": "bkaradzic/bgfx",
+      "stars": 17636,
+      "language": "C++",
+      "last_push": "2026-11-11",
+      "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framewor"
+    },
+    {
+      "repo": "QianMo/Game-Programmer-Study-Notes",
+      "stars": 10081,
+      "language": "-",
+      "last_push": "2021-10-16",
+      "description": ":anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模"
+    },
+    {
+      "repo": "FyroxEngine/Fyrox",
+      "stars": 9673,
+      "language": "Rust",
+      "last_push": "2026-11-10",
+      "description": "3D and 2D game engine written in Rust"
+    },
+    {
+      "repo": "mxgmn/WaveFunctionCollapse",
+      "stars": 25516,
+      "language": "C#",
+      "last_push": "2026-10-15",
+      "description": "Bitmap & tilemap generation from a single example with the help of ide"
+    },
+    {
+      "repo": "louis-e/arnis",
+      "stars": 18611,
+      "language": "Rust",
+      "last_push": "2026-11-11",
+      "description": "Generate any location from the real world in Minecraft with a high lev"
+    },
+    {
+      "repo": "mxgmn/MarkovJunior",
+      "stars": 8522,
+      "language": "C#",
+      "last_push": "2026-03-20",
+      "description": "Probabilistic language based on pattern matching and constraint propag"
+    },
+    {
+      "repo": "PixiEditor/PixiEditor",
+      "stars": 8137,
+      "language": "C#",
+      "last_push": "2026-11-12",
+      "description": "PixiEditor is a Universal Editor for all your 2D needs"
+    },
+    {
+      "repo": "a1studmuffin/SpaceshipGenerator",
+      "stars": 7861,
+      "language": "Python",
+      "last_push": "2024-05-25",
+      "description": "A Blender script to procedurally generate 3D spaceships"
+    },
+    {
+      "repo": "veloren/veloren",
+      "stars": 7692,
+      "language": "Rust",
+      "last_push": "2026-11-10",
+      "description": "[mirror of https://gitlab.com/veloren/veloren] An open world, open sou"
+    },
+    {
+      "repo": "LingDong-/shan-shui-inf",
+      "stars": 6447,
+      "language": "HTML",
+      "last_push": "2018-12-11",
+      "description": "Procedurally generated Chinese landscape painting."
+    },
+    {
+      "repo": "RayTracing/raytracing.github.io",
+      "stars": 10744,
+      "language": "HTML",
+      "last_push": "2026-08-10",
+      "description": "Main Web Site (Online Books)"
+    },
+    {
+      "repo": "turanszkij/WickedEngine",
+      "stars": 7347,
+      "language": "C++",
+      "last_push": "2026-11-12",
+      "description": "3D engine with modern graphics"
+    },
+    {
+      "repo": "ssloy/tinyraytracer",
+      "stars": 5393,
+      "language": "C++",
+      "last_push": "2023-07-07",
+      "description": "A brief computer graphics / rendering course"
+    },
+    {
+      "repo": "ProjectPhysX/FluidX3D",
+      "stars": 5366,
+      "language": "C++",
+      "last_push": "2026-11-09",
+      "description": "The fastest and most memory efficient lattice Boltzmann CFD software, "
+    },
+    {
+      "repo": "f3d-app/f3d",
+      "stars": 5028,
+      "language": "C++",
+      "last_push": "2026-11-12",
+      "description": "Fast and minimalist 3D viewer."
+    },
+    {
+      "repo": "DiligentGraphics/DiligentEngine",
+      "stars": 4510,
+      "language": "Batchfile",
+      "last_push": "2026-11-12",
+      "description": "A modern cross-platform low-level graphics library and rendering frame"
+    },
+    {
+      "repo": "gkjohnson/three-mesh-bvh",
+      "stars": 3571,
+      "language": "JavaScript",
+      "last_push": "2026-11-12",
+      "description": "A BVH implementation to speed up raycasting and enable spatial queries"
+    },
+    {
+      "repo": "ssloy/tinykaboom",
+      "stars": 2432,
+      "language": "C++",
+      "last_push": "2023-02-22",
+      "description": "A brief computer graphics / rendering course"
+    },
+    {
+      "repo": "erichlof/THREE.js-PathTracing-Renderer",
+      "stars": 2262,
+      "language": "GLSL",
+      "last_push": "2026-10-15",
+      "description": "Real-time PathTracing with global illumination and progressive renderi"
+    },
+    {
+      "repo": "ekzhang/graphics-workshop",
+      "stars": 2184,
+      "language": "GLSL",
+      "last_push": "2021-10-25",
+      "description": "Learn computer graphics by writing GPU shaders!"
+    },
+    {
+      "repo": "greensock/GSAP",
+      "stars": 30519,
+      "language": "JavaScript",
+      "last_push": "2026-11-04",
+      "description": "GSAP (GreenSock Animation Platform), a JavaScript animation library fo"
+    },
+    {
+      "repo": "konvajs/konva",
+      "stars": 14944,
+      "language": "TypeScript",
+      "last_push": "2026-11-10",
+      "description": "Konva.js is an HTML5 Canvas JavaScript framework for interactive graph"
+    },
+    {
+      "repo": "fabricjs/fabric.js",
+      "stars": 31556,
+      "language": "TypeScript",
+      "last_push": "2026-11-10",
+      "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
+    },
+    {
+      "repo": "paperjs/paper.js",
+      "stars": 15192,
+      "language": "JavaScript",
+      "last_push": "2026-11-11",
+      "description": "The Swiss Army Knife of Vector Graphics Scripting – Scriptographer por"
+    },
+    {
+      "repo": "airbnb/lottie-web",
+      "stars": 32398,
+      "language": "JavaScript",
+      "last_push": "2025-09-01",
+      "description": "Render After Effects animations natively on Web, Android and iOS, and "
+    },
+    {
+      "repo": "remotion-dev/remotion",
+      "stars": 72712,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "🎥      Make videos programmatically with React"
+    },
+    {
+      "repo": "motion-canvas/motion-canvas",
+      "stars": 19788,
+      "language": "TypeScript",
+      "last_push": "2026-07-02",
+      "description": "Visualize Your Ideas With Code"
+    },
+    {
+      "repo": "rive-app/rive-wasm",
+      "stars": 1021,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "Web runtime (JS/WASM) for Rive, the agent-native 2D and 3D engine for "
+    },
+    {
+      "repo": "ffmpegwasm/ffmpeg.wasm",
+      "stars": 17955,
+      "language": "C",
+      "last_push": "2026-09-29",
+      "description": "FFmpeg for browser, powered by WebAssembly"
+    },
+    {
+      "repo": "jimp-dev/jimp",
+      "stars": 14669,
+      "language": "TypeScript",
+      "last_push": "2026-04-07",
+      "description": "An image processing library written entirely in JavaScript for Node, w"
+    },
+    {
+      "repo": "visgl/deck.gl",
+      "stars": 14752,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "WebGL2 powered visualization framework"
+    },
+    {
+      "repo": "maplibre/maplibre-gl-js",
+      "stars": 12074,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "MapLibre GL JS - Interactive vector tile maps in the browser"
+    },
+    {
+      "repo": "Leaflet/Leaflet",
+      "stars": 45912,
+      "language": "JavaScript",
+      "last_push": "2026-11-12",
+      "description": "🍃 number one JavaScript library for interactive maps 🇺🇦"
+    },
+    {
+      "repo": "CesiumGS/cesium",
+      "stars": 15944,
+      "language": "JavaScript",
+      "last_push": "2026-11-12",
+      "description": "An open-source JavaScript library for world-class 3D globes and maps :"
+    },
+    {
+      "repo": "google/model-viewer",
+      "stars": 8328,
+      "language": "TypeScript",
+      "last_push": "2026-11-05",
+      "description": "Easily display interactive 3D models on the web and in AR! "
+    },
+    {
+      "repo": "patriciogonzalezvivo/glslViewer",
+      "stars": 5356,
+      "language": "C++",
+      "last_push": "2026-11-02",
+      "description": "Console-based GLSL Sandbox for 2D/3D shaders"
+    },
+    {
+      "repo": "patriciogonzalezvivo/lygia",
+      "stars": 3485,
+      "language": "GLSL",
+      "last_push": "2026-10-24",
+      "description": "LYGIA, it's a granular and multi-language (GLSL, HLSL, Metal,  WGSL,  "
+    },
+    {
+      "repo": "ojack/hydra",
+      "stars": 279,
+      "language": "-",
+      "last_push": "2022-10-27",
+      "description": "Livecoding networked visuals in the browser"
+    },
+    {
+      "repo": "mattdesl/canvas-sketch",
+      "stars": 5324,
+      "language": "JavaScript",
+      "last_push": "2026-06-02",
+      "description": "[beta] A framework for making generative artwork in JavaScript and the"
+    },
+    {
+      "repo": "processing/processing",
+      "stars": 6475,
+      "language": "Java",
+      "last_push": "2026-07-15",
+      "description": "⚠️ Processing moved to processing/processing4 ⚠️"
+    },
+    {
+      "repo": "vega/vega",
+      "stars": 12042,
+      "language": "JavaScript",
+      "last_push": "2026-11-05",
+      "description": "A visualization grammar."
+    },
+    {
+      "repo": "plotly/plotly.js",
+      "stars": 18380,
+      "language": "JavaScript",
+      "last_push": "2026-11-10",
+      "description": "Open-source JavaScript charting library behind Plotly and Dash"
+    },
+    {
+      "repo": "recharts/recharts",
+      "stars": 27705,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "Redefined chart library built with React and D3"
+    },
+    {
+      "repo": "Chlumsky/msdfgen",
+      "stars": 4966,
+      "language": "C++",
+      "last_push": "2026-11-11",
+      "description": "Multi-channel signed distance field generator"
+    },
+    {
+      "repo": "protectwise/troika",
+      "stars": 1990,
+      "language": "JavaScript",
+      "last_push": "2026-11-02",
+      "description": "A JavaScript framework for interactive 3D and 2D visualizations"
+    },
+    {
+      "repo": "pmndrs/cannon-es",
+      "stars": 2090,
+      "language": "TypeScript",
+      "last_push": "2024-01-06",
+      "description": "💣 A lightweight 3D physics engine written in JavaScript."
+    },
+    {
+      "repo": "dimforge/rapier",
+      "stars": 6060,
+      "language": "Rust",
+      "last_push": "2026-11-01",
+      "description": "2D and 3D physics engines focused on performance."
+    },
+    {
+      "repo": "Comfy-Org/ComfyUI",
+      "stars": 146484,
+      "language": "Python",
+      "last_push": "2026-11-12",
+      "description": "The most powerful and modular diffusion model GUI, api and backend wit"
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "stars": 34914,
+      "language": "Python",
+      "last_push": "2026-11-12",
+      "description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and "
+    },
+    {
+      "repo": "KhronosGroup/glTF",
+      "stars": 7888,
+      "language": "HTML",
+      "last_push": "2026-11-12",
+      "description": "glTF – Runtime 3D Asset Delivery"
+    },
+    {
+      "repo": "google/draco",
+      "stars": 7550,
+      "language": "C++",
+      "last_push": "2026-11-11",
+      "description": "Draco is a library for compressing and decompressing 3D geometric mesh"
+    },
+    {
+      "repo": "zeux/meshoptimizer",
+      "stars": 8837,
+      "language": "C++",
+      "last_push": "2026-10-14",
+      "description": "Mesh optimization library that makes meshes smaller and faster to rend"
+    },
+    {
+      "repo": "donmccurdy/glTF-Transform",
+      "stars": 2073,
+      "language": "TypeScript",
+      "last_push": "2026-10-20",
+      "description": "glTF 2.0 SDK for JavaScript and TypeScript, on Web and Node.js."
+    },
+    {
+      "repo": "floooh/sokol",
+      "stars": 10429,
+      "language": "C",
+      "last_push": "2026-11-11",
+      "description": "minimal cross-platform standalone C headers"
+    },
+    {
+      "repo": "godotengine/godot",
+      "stars": 120027,
+      "language": "C++",
+      "last_push": "2026-11-12",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine"
+    },
+    {
+      "repo": "FFmpeg/FFmpeg",
+      "stars": 67116,
+      "language": "C",
+      "last_push": "2026-11-12",
+      "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git"
+    },
+    {
+      "repo": "raysan5/raylib",
+      "stars": 35643,
+      "language": "C",
+      "last_push": "2026-11-11",
+      "description": "A simple and easy-to-use library to enjoy videogames programming"
+    }
+  ]
+}

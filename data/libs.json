@@ -1,0 +1,992 @@
+{
+  "title": "视觉领域库地图 / Visual Graphics Libraries Map",
+  "updated": "2026-11-12",
+  "categories": {
+    "render-web": "Web 渲染引擎与薄封装",
+    "shader": "Shader 工具链",
+    "canvas-2d": "2D 画布、矢量与创意编程",
+    "dataviz": "数据可视化",
+    "motion": "动效与时间轴",
+    "media": "图像 / 视频处理",
+    "asset-3d": "3D 资产管线",
+    "neural": "高斯泼溅 / NeRF",
+    "native": "非 JS 的老牌框架",
+    "game": "游戏引擎",
+    "editor": "可视化编辑器（应用）",
+    "physics": "物理与几何加速",
+    "learn": "教程与资源（不是库）",
+    "ai": "AI 视觉生成"
+  },
+  "items": [
+    {
+      "repo": "mrdoob/three.js",
+      "category": "render-web",
+      "stars": 118229,
+      "language": "JavaScript",
+      "last_push": "2026-11-12",
+      "description": "JavaScript 3D Library.",
+      "note": "默认答案，覆盖 80% 需求",
+      "url": "https://github.com/mrdoob/three.js"
+    },
+    {
+      "repo": "pmndrs/react-three-fiber",
+      "category": "render-web",
+      "stars": 33675,
+      "language": "TypeScript",
+      "last_push": "2026-10-21",
+      "description": "🇨🇭 A React renderer for Three.js",
+      "note": "用 React 的方式写 3D",
+      "url": "https://github.com/pmndrs/react-three-fiber"
+    },
+    {
+      "repo": "pmndrs/drei",
+      "category": "render-web",
+      "stars": 10150,
+      "language": "JavaScript",
+      "last_push": "2026-10-21",
+      "description": "🥉 useful helpers for react-three-fiber",
+      "note": "r3f 的组件全家桶",
+      "url": "https://github.com/pmndrs/drei"
+    },
+    {
+      "repo": "BabylonJS/Babylon.js",
+      "category": "render-web",
+      "stars": 26330,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "Babylon.js is a powerful, beautiful, simple, and open game and renderi",
+      "note": "游戏级功能 + 可视化编辑器",
+      "url": "https://github.com/BabylonJS/Babylon.js"
+    },
+    {
+      "repo": "playcanvas/engine",
+      "category": "render-web",
+      "stars": 17274,
+      "language": "JavaScript",
+      "last_push": "2026-11-12",
+      "description": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF",
+      "note": "团队协作，浏览器里搭场景",
+      "url": "https://github.com/playcanvas/engine"
+    },
+    {
+      "repo": "google/filament",
+      "category": "render-web",
+      "stars": 20740,
+      "language": "C++",
+      "last_push": "2026-11-12",
+      "description": "Filament is a real-time physically based rendering engine for Android,",
+      "note": "手机端写实 PBR，性能优先",
+      "url": "https://github.com/google/filament"
+    },
+    {
+      "repo": "google/model-viewer",
+      "category": "render-web",
+      "stars": 8328,
+      "language": "TypeScript",
+      "last_push": "2026-11-05",
+      "description": "Easily display interactive 3D models on the web and in AR!",
+      "note": "一行标签放一个可转模型",
+      "url": "https://github.com/google/model-viewer"
+    },
+    {
+      "repo": "aframevr/aframe",
+      "category": "render-web",
+      "stars": 17699,
+      "language": "JavaScript",
+      "last_push": "2026-07-13",
+      "description": ":a: Web framework for building virtual reality experiences.",
+      "note": "用 HTML 标签搭 VR",
+      "url": "https://github.com/aframevr/aframe"
+    },
+    {
+      "repo": "oframe/ogl",
+      "category": "render-web",
+      "stars": 4754,
+      "language": "JavaScript",
+      "last_push": "2025-04-13",
+      "description": "Minimal WebGL Library",
+      "note": "自己写 shader 的极薄封装",
+      "url": "https://github.com/oframe/ogl"
+    },
+    {
+      "repo": "regl-project/regl",
+      "category": "render-web",
+      "stars": 5597,
+      "language": "JavaScript",
+      "last_push": "2026-10-17",
+      "description": "Functional WebGL",
+      "note": "函数式的薄封装",
+      "url": "https://github.com/regl-project/regl"
+    },
+    {
+      "repo": "greggman/twgl.js",
+      "category": "render-web",
+      "stars": 3033,
+      "language": "JavaScript",
+      "last_push": "2026-10-19",
+      "description": "A Tiny WebGL helper Library",
+      "note": "边用边学原生 WebGL",
+      "url": "https://github.com/greggman/twgl.js"
+    },
+    {
+      "repo": "evanw/lightgl.js",
+      "category": "render-web",
+      "stars": 1573,
+      "language": "JavaScript",
+      "last_push": "2022-08-25",
+      "description": "A lightweight WebGL library",
+      "note": "极简，适合读源码（已停更）",
+      "url": "https://github.com/evanw/lightgl.js"
+    },
+    {
+      "repo": "pissang/claygl",
+      "category": "render-web",
+      "stars": 2867,
+      "language": "JavaScript",
+      "last_push": "2025-12-18",
+      "description": "WebGL graphic library for Web3D applications",
+      "note": "国产 Web3D 引擎",
+      "url": "https://github.com/pissang/claygl"
+    },
+    {
+      "repo": "martinlaxenaire/curtainsjs",
+      "category": "render-web",
+      "stars": 1831,
+      "language": "JavaScript",
+      "last_push": "2025-04-03",
+      "description": "DOM elements as interactive textured planes",
+      "note": "把 DOM 图片变成 shader 平面",
+      "url": "https://github.com/martinlaxenaire/curtainsjs"
+    },
+    {
+      "repo": "tengbao/vanta",
+      "category": "render-web",
+      "stars": 7366,
+      "language": "JavaScript",
+      "last_push": "2024-03-03",
+      "description": "Animated 3D backgrounds for your website",
+      "note": "三行代码给网页加 3D 背景",
+      "url": "https://github.com/tengbao/vanta"
+    },
+    {
+      "repo": "gfx-rs/wgpu",
+      "category": "render-web",
+      "stars": 18524,
+      "language": "Rust",
+      "last_push": "2026-11-11",
+      "description": "A cross-platform, safe, pure-Rust graphics API.",
+      "note": "Rust 的 WebGPU 实现",
+      "url": "https://github.com/gfx-rs/wgpu"
+    },
+    {
+      "repo": "floooh/sokol",
+      "category": "render-web",
+      "stars": 10429,
+      "language": "C",
+      "last_push": "2026-11-11",
+      "description": "minimal cross-platform standalone C headers",
+      "note": "单头文件图形库",
+      "url": "https://github.com/floooh/sokol"
+    },
+    {
+      "repo": "bkaradzic/bgfx",
+      "category": "render-web",
+      "stars": 17636,
+      "language": "C++",
+      "last_push": "2026-11-11",
+      "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framewor",
+      "note": "跨平台渲染抽象层",
+      "url": "https://github.com/bkaradzic/bgfx"
+    },
+    {
+      "repo": "patriciogonzalezvivo/thebookofshaders",
+      "category": "shader",
+      "stars": 7074,
+      "language": "GLSL",
+      "last_push": "2026-02-28",
+      "description": "Step-by-step guide through the abstract and complex universe of Fragme",
+      "note": "学 shader 的圣经（书）",
+      "url": "https://github.com/patriciogonzalezvivo/thebookofshaders"
+    },
+    {
+      "repo": "patriciogonzalezvivo/glslViewer",
+      "category": "shader",
+      "stars": 5356,
+      "language": "C++",
+      "last_push": "2026-11-02",
+      "description": "Console-based GLSL Sandbox for 2D/3D shaders",
+      "note": "终端里实时跑 GLSL",
+      "url": "https://github.com/patriciogonzalezvivo/glslViewer"
+    },
+    {
+      "repo": "patriciogonzalezvivo/lygia",
+      "category": "shader",
+      "stars": 3485,
+      "language": "GLSL",
+      "last_push": "2026-10-24",
+      "description": "LYGIA, it's a granular and multi-language (GLSL, HLSL, Metal,  WGSL,",
+      "note": "shader 的标准库",
+      "url": "https://github.com/patriciogonzalezvivo/lygia"
+    },
+    {
+      "repo": "Chlumsky/msdfgen",
+      "category": "shader",
+      "stars": 4966,
+      "language": "C++",
+      "last_push": "2026-11-11",
+      "description": "Multi-channel signed distance field generator",
+      "note": "文字锐利渲染的行业标准",
+      "url": "https://github.com/Chlumsky/msdfgen"
+    },
+    {
+      "repo": "protectwise/troika",
+      "category": "shader",
+      "stars": 1990,
+      "language": "JavaScript",
+      "last_push": "2026-11-02",
+      "description": "A JavaScript framework for interactive 3D and 2D visualizations",
+      "note": "three.js 里渲染高质量文字",
+      "url": "https://github.com/protectwise/troika"
+    },
+    {
+      "repo": "gpujs/gpu.js",
+      "category": "shader",
+      "stars": 15526,
+      "language": "JavaScript",
+      "last_push": "2026-11-03",
+      "description": "GPU Accelerated JavaScript",
+      "note": "用 JS 写 GPU 计算，不碰 GLSL",
+      "url": "https://github.com/gpujs/gpu.js"
+    },
+    {
+      "repo": "taichi-dev/taichi",
+      "category": "shader",
+      "stars": 28457,
+      "language": "C++",
+      "last_push": "2026-10-05",
+      "description": "Productive, portable, and performant GPU programming in Python.",
+      "note": "Python 写高性能图形与物理计算",
+      "url": "https://github.com/taichi-dev/taichi"
+    },
+    {
+      "repo": "pixijs/pixijs",
+      "category": "canvas-2d",
+      "stars": 48678,
+      "language": "TypeScript",
+      "last_push": "2026-11-11",
+      "description": "The HTML5 Creation Engine: Create beautiful digital content with the f",
+      "note": "高性能 2D，WebGL 加速",
+      "url": "https://github.com/pixijs/pixijs"
+    },
+    {
+      "repo": "fabricjs/fabric.js",
+      "category": "canvas-2d",
+      "stars": 31556,
+      "language": "TypeScript",
+      "last_push": "2026-11-10",
+      "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser",
+      "note": "可编辑画布（拖拽、缩放、选区）",
+      "url": "https://github.com/fabricjs/fabric.js"
+    },
+    {
+      "repo": "rough-stuff/rough",
+      "category": "canvas-2d",
+      "stars": 21377,
+      "language": "HTML",
+      "last_push": "2024-07-28",
+      "description": "Create graphics with a hand-drawn, sketchy, appearance",
+      "note": "手绘 / 素描风线条",
+      "url": "https://github.com/rough-stuff/rough"
+    },
+    {
+      "repo": "paperjs/paper.js",
+      "category": "canvas-2d",
+      "stars": 15192,
+      "language": "JavaScript",
+      "last_push": "2026-11-11",
+      "description": "The Swiss Army Knife of Vector Graphics Scripting – Scriptographer por",
+      "note": "矢量路径运算（布尔、偏移）",
+      "url": "https://github.com/paperjs/paper.js"
+    },
+    {
+      "repo": "konvajs/konva",
+      "category": "canvas-2d",
+      "stars": 14944,
+      "language": "TypeScript",
+      "last_push": "2026-11-10",
+      "description": "Konva.js is an HTML5 Canvas JavaScript framework for interactive graph",
+      "note": "2D 场景图 + 交互",
+      "url": "https://github.com/konvajs/konva"
+    },
+    {
+      "repo": "processing/p5.js",
+      "category": "canvas-2d",
+      "stars": 24339,
+      "language": "JavaScript",
+      "last_push": "2026-11-11",
+      "description": "p5.js is a client-side JS platform that empowers artists, designers, s",
+      "note": "创意编程入门，艺术家首选",
+      "url": "https://github.com/processing/p5.js"
+    },
+    {
+      "repo": "williamngan/pts",
+      "category": "canvas-2d",
+      "stars": 5365,
+      "language": "TypeScript",
+      "last_push": "2026-10-28",
+      "description": "A library for visualization and creative-coding",
+      "note": "可视化与生成艺术",
+      "url": "https://github.com/williamngan/pts"
+    },
+    {
+      "repo": "css-doodle/css-doodle",
+      "category": "canvas-2d",
+      "stars": 6082,
+      "language": "JavaScript",
+      "last_push": "2026-11-07",
+      "description": "A web component for visual art and creative coding",
+      "note": "用 CSS 画生成艺术",
+      "url": "https://github.com/css-doodle/css-doodle"
+    },
+    {
+      "repo": "mattdesl/canvas-sketch",
+      "category": "canvas-2d",
+      "stars": 5324,
+      "language": "JavaScript",
+      "last_push": "2026-06-02",
+      "description": "[beta] A framework for making generative artwork in JavaScript and the",
+      "note": "生成艺术 / 版式脚手架",
+      "url": "https://github.com/mattdesl/canvas-sketch"
+    },
+    {
+      "repo": "d3/d3",
+      "category": "dataviz",
+      "stars": 113918,
+      "language": "Shell",
+      "last_push": "2026-11-03",
+      "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_u",
+      "note": "底层原语，天花板最高",
+      "url": "https://github.com/d3/d3"
+    },
+    {
+      "repo": "chartjs/Chart.js",
+      "category": "dataviz",
+      "stars": 67794,
+      "language": "JavaScript",
+      "last_push": "2026-11-09",
+      "description": "Simple HTML5 Charts using the <canvas> tag",
+      "note": "最常见的图表，开箱即用",
+      "url": "https://github.com/chartjs/Chart.js"
+    },
+    {
+      "repo": "apache/echarts",
+      "category": "dataviz",
+      "stars": 67706,
+      "language": "TypeScript",
+      "last_push": "2026-10-13",
+      "description": "Apache ECharts is a powerful, interactive charting and data visualizat",
+      "note": "国内生态第一，图表最全",
+      "url": "https://github.com/apache/echarts"
+    },
+    {
+      "repo": "plotly/plotly.js",
+      "category": "dataviz",
+      "stars": 18380,
+      "language": "JavaScript",
+      "last_push": "2026-11-10",
+      "description": "Open-source JavaScript charting library behind Plotly and Dash",
+      "note": "科学计算级图表",
+      "url": "https://github.com/plotly/plotly.js"
+    },
+    {
+      "repo": "recharts/recharts",
+      "category": "dataviz",
+      "stars": 27705,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "Redefined chart library built with React and D3",
+      "note": "React 里的图表",
+      "url": "https://github.com/recharts/recharts"
+    },
+    {
+      "repo": "plouc/nivo",
+      "category": "dataviz",
+      "stars": 14136,
+      "language": "TypeScript",
+      "last_push": "2026-07-21",
+      "description": "nivo provides a rich set of dataviz components, built on top of the aw",
+      "note": "最好看的 React 图表",
+      "url": "https://github.com/plouc/nivo"
+    },
+    {
+      "repo": "vega/vega",
+      "category": "dataviz",
+      "stars": 12042,
+      "language": "JavaScript",
+      "last_push": "2026-11-05",
+      "description": "A visualization grammar.",
+      "note": "声明式图表语法",
+      "url": "https://github.com/vega/vega"
+    },
+    {
+      "repo": "visgl/deck.gl",
+      "category": "dataviz",
+      "stars": 14752,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "WebGL2 powered visualization framework",
+      "note": "十万级数据点的 GPU 叠加层",
+      "url": "https://github.com/visgl/deck.gl"
+    },
+    {
+      "repo": "Leaflet/Leaflet",
+      "category": "dataviz",
+      "stars": 45912,
+      "language": "JavaScript",
+      "last_push": "2026-11-12",
+      "description": "🍃 number one JavaScript library for interactive maps 🇺🇦",
+      "note": "2D 地图事实标准",
+      "url": "https://github.com/Leaflet/Leaflet"
+    },
+    {
+      "repo": "maplibre/maplibre-gl-js",
+      "category": "dataviz",
+      "stars": 12074,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
+      "note": "Mapbox 的开源替代",
+      "url": "https://github.com/maplibre/maplibre-gl-js"
+    },
+    {
+      "repo": "CesiumGS/cesium",
+      "category": "dataviz",
+      "stars": 15944,
+      "language": "JavaScript",
+      "last_push": "2026-11-12",
+      "description": "An open-source JavaScript library for world-class 3D globes and maps :",
+      "note": "3D 地球 / 卫星轨道",
+      "url": "https://github.com/CesiumGS/cesium"
+    },
+    {
+      "repo": "juliangarnier/anime",
+      "category": "motion",
+      "stars": 74535,
+      "language": "JavaScript",
+      "last_push": "2026-11-02",
+      "description": "JavaScript animation engine",
+      "note": "轻量动效，API 极简",
+      "url": "https://github.com/juliangarnier/anime"
+    },
+    {
+      "repo": "greensock/GSAP",
+      "category": "motion",
+      "stars": 30519,
+      "language": "JavaScript",
+      "last_push": "2026-11-04",
+      "description": "GSAP (GreenSock Animation Platform), a JavaScript animation library fo",
+      "note": "时间轴控制的经典，最稳",
+      "url": "https://github.com/greensock/GSAP"
+    },
+    {
+      "repo": "motiondivision/motion",
+      "category": "motion",
+      "stars": 35091,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "A modern animation library for React and JavaScript",
+      "note": "React 动效标准（原 Framer Motion）",
+      "url": "https://github.com/motiondivision/motion"
+    },
+    {
+      "repo": "airbnb/lottie-web",
+      "category": "motion",
+      "stars": 32398,
+      "language": "JavaScript",
+      "last_push": "2025-09-01",
+      "description": "Render After Effects animations natively on Web, Android and iOS, and",
+      "note": "把 AE 动画搬进网页",
+      "url": "https://github.com/airbnb/lottie-web"
+    },
+    {
+      "repo": "rive-app/rive-wasm",
+      "category": "motion",
+      "stars": 1021,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "Web runtime (JS/WASM) for Rive, the agent-native 2D and 3D engine for",
+      "note": "交互式矢量动画运行时",
+      "url": "https://github.com/rive-app/rive-wasm"
+    },
+    {
+      "repo": "theatre-js/theatre",
+      "category": "motion",
+      "stars": 12979,
+      "language": "TypeScript",
+      "last_push": "2024-08-14",
+      "description": "Motion design editor for the web",
+      "note": "可视化动效编辑器（2024 后停更）",
+      "url": "https://github.com/theatre-js/theatre"
+    },
+    {
+      "repo": "mojs/mojs",
+      "category": "motion",
+      "stars": 18901,
+      "language": "CoffeeScript",
+      "last_push": "2026-07-30",
+      "description": "The motion graphics toolbelt for the web",
+      "note": "漂亮的微交互动效",
+      "url": "https://github.com/mojs/mojs"
+    },
+    {
+      "repo": "motion-canvas/motion-canvas",
+      "category": "motion",
+      "stars": 19788,
+      "language": "TypeScript",
+      "last_push": "2026-07-02",
+      "description": "Visualize Your Ideas With Code",
+      "note": "代码驱动的动态图形",
+      "url": "https://github.com/motion-canvas/motion-canvas"
+    },
+    {
+      "repo": "remotion-dev/remotion",
+      "category": "motion",
+      "stars": 72712,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "🎥      Make videos programmatically with React",
+      "note": "用 React 写视频",
+      "url": "https://github.com/remotion-dev/remotion"
+    },
+    {
+      "repo": "3b1b/manim",
+      "category": "motion",
+      "stars": 96446,
+      "language": "Python",
+      "last_push": "2026-09-09",
+      "description": "Animation engine for explanatory math videos",
+      "note": "数学 / 科普动画",
+      "url": "https://github.com/3b1b/manim"
+    },
+    {
+      "repo": "opencv/opencv",
+      "category": "media",
+      "stars": 91548,
+      "language": "C++",
+      "last_push": "2026-11-11",
+      "description": "Open Source Computer Vision Library",
+      "note": "计算机视觉全家桶",
+      "url": "https://github.com/opencv/opencv"
+    },
+    {
+      "repo": "FFmpeg/FFmpeg",
+      "category": "media",
+      "stars": 67116,
+      "language": "C",
+      "last_push": "2026-11-12",
+      "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git",
+      "note": "一切视频编码的底层",
+      "url": "https://github.com/FFmpeg/FFmpeg"
+    },
+    {
+      "repo": "lovell/sharp",
+      "category": "media",
+      "stars": 32840,
+      "language": "JavaScript",
+      "last_push": "2026-11-12",
+      "description": "High performance Node.js image processing, the fastest module to resiz",
+      "note": "Node 里最快的图片处理",
+      "url": "https://github.com/lovell/sharp"
+    },
+    {
+      "repo": "ffmpegwasm/ffmpeg.wasm",
+      "category": "media",
+      "stars": 17955,
+      "language": "C",
+      "last_push": "2026-09-29",
+      "description": "FFmpeg for browser, powered by WebAssembly",
+      "note": "浏览器里跑 FFmpeg",
+      "url": "https://github.com/ffmpegwasm/ffmpeg.wasm"
+    },
+    {
+      "repo": "ImageMagick/ImageMagick",
+      "category": "media",
+      "stars": 17850,
+      "language": "C",
+      "last_push": "2026-11-12",
+      "description": "ImageMagick is a free, open-source software suite for creating, editin",
+      "note": "命令行图像处理祖师爷",
+      "url": "https://github.com/ImageMagick/ImageMagick"
+    },
+    {
+      "repo": "jimp-dev/jimp",
+      "category": "media",
+      "stars": 14669,
+      "language": "TypeScript",
+      "last_push": "2026-04-07",
+      "description": "An image processing library written entirely in JavaScript for Node, w",
+      "note": "纯 JS 图片处理，零依赖",
+      "url": "https://github.com/jimp-dev/jimp"
+    },
+    {
+      "repo": "KhronosGroup/glTF",
+      "category": "asset-3d",
+      "stars": 7888,
+      "language": "HTML",
+      "last_push": "2026-11-12",
+      "description": "glTF – Runtime 3D Asset Delivery",
+      "note": "3D 界的 JPG，格式规范",
+      "url": "https://github.com/KhronosGroup/glTF"
+    },
+    {
+      "repo": "zeux/meshoptimizer",
+      "category": "asset-3d",
+      "stars": 8837,
+      "language": "C++",
+      "last_push": "2026-10-14",
+      "description": "Mesh optimization library that makes meshes smaller and faster to rend",
+      "note": "网格压缩，性能神器",
+      "url": "https://github.com/zeux/meshoptimizer"
+    },
+    {
+      "repo": "google/draco",
+      "category": "asset-3d",
+      "stars": 7550,
+      "language": "C++",
+      "last_push": "2026-11-11",
+      "description": "Draco is a library for compressing and decompressing 3D geometric mesh",
+      "note": "几何压缩（glTF 配套）",
+      "url": "https://github.com/google/draco"
+    },
+    {
+      "repo": "donmccurdy/glTF-Transform",
+      "category": "asset-3d",
+      "stars": 2073,
+      "language": "TypeScript",
+      "last_push": "2026-10-20",
+      "description": "glTF 2.0 SDK for JavaScript and TypeScript, on Web and Node.js.",
+      "note": "glTF 处理工具箱",
+      "url": "https://github.com/donmccurdy/glTF-Transform"
+    },
+    {
+      "repo": "graphdeco-inria/gaussian-splatting",
+      "category": "neural",
+      "stars": 24460,
+      "language": "Python",
+      "last_push": "2025-10-17",
+      "description": "Original reference implementation of \"3D Gaussian Splatting for Real-T",
+      "note": "原始论文实现，实时写实重建",
+      "url": "https://github.com/graphdeco-inria/gaussian-splatting"
+    },
+    {
+      "repo": "NVlabs/instant-ngp",
+      "category": "neural",
+      "stars": 17595,
+      "language": "Cuda",
+      "last_push": "2026-02-02",
+      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+      "note": "几分钟训练一个 NeRF",
+      "url": "https://github.com/NVlabs/instant-ngp"
+    },
+    {
+      "repo": "nerfstudio-project/nerfstudio",
+      "category": "neural",
+      "stars": 12202,
+      "language": "Python",
+      "last_push": "2025-07-29",
+      "description": "A collaboration friendly studio for NeRFs",
+      "note": "NeRF 的一站式工作台",
+      "url": "https://github.com/nerfstudio-project/nerfstudio"
+    },
+    {
+      "repo": "playcanvas/supersplat",
+      "category": "neural",
+      "stars": 10637,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "3D Gaussian Splat Editor",
+      "note": "浏览器里编辑 splat",
+      "url": "https://github.com/playcanvas/supersplat"
+    },
+    {
+      "repo": "nerfstudio-project/gsplat",
+      "category": "neural",
+      "stars": 5893,
+      "language": "Python",
+      "last_push": "2026-09-19",
+      "description": "CUDA accelerated rasterization of gaussian splatting",
+      "note": "CUDA 加速版，训练更快",
+      "url": "https://github.com/nerfstudio-project/gsplat"
+    },
+    {
+      "repo": "godotengine/godot",
+      "category": "native",
+      "stars": 120027,
+      "language": "C++",
+      "last_push": "2026-11-12",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "note": "开源游戏引擎，2D/3D 都强",
+      "url": "https://github.com/godotengine/godot"
+    },
+    {
+      "repo": "raysan5/raylib",
+      "category": "native",
+      "stars": 35643,
+      "language": "C",
+      "last_push": "2026-11-11",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "note": "极简 C 游戏库，学图形学首选",
+      "url": "https://github.com/raysan5/raylib"
+    },
+    {
+      "repo": "ssloy/tinyrenderer",
+      "category": "native",
+      "stars": 24512,
+      "language": "C++",
+      "last_push": "2026-07-29",
+      "description": "A brief computer graphics / rendering course",
+      "note": "手写软渲染器教程",
+      "url": "https://github.com/ssloy/tinyrenderer"
+    },
+    {
+      "repo": "blender/blender",
+      "category": "native",
+      "stars": 21918,
+      "language": "C++",
+      "last_push": "2026-11-12",
+      "description": "Official mirror of Blender",
+      "note": "几何节点就是程序化视觉",
+      "url": "https://github.com/blender/blender"
+    },
+    {
+      "repo": "openframeworks/openFrameworks",
+      "category": "native",
+      "stars": 10465,
+      "language": "C++",
+      "last_push": "2026-11-12",
+      "description": "openFrameworks is a community-developed cross platform toolkit for cre",
+      "note": "C++ 创意编程，装置艺术常用",
+      "url": "https://github.com/openframeworks/openFrameworks"
+    },
+    {
+      "repo": "nannou-org/nannou",
+      "category": "native",
+      "stars": 6782,
+      "language": "Rust",
+      "last_push": "2026-11-09",
+      "description": "A Creative Coding Framework for Rust.",
+      "note": "Rust 版创意编程",
+      "url": "https://github.com/nannou-org/nannou"
+    },
+    {
+      "repo": "processing/processing",
+      "category": "native",
+      "stars": 6475,
+      "language": "Java",
+      "last_push": "2026-07-15",
+      "description": "⚠️ Processing moved to processing/processing4 ⚠️",
+      "note": "p5.js 的母体，艺术家编程起点",
+      "url": "https://github.com/processing/processing"
+    },
+    {
+      "repo": "libgdx/libgdx",
+      "category": "native",
+      "stars": 25523,
+      "language": "Java",
+      "last_push": "2026-11-08",
+      "description": "Desktop/Android/HTML5/iOS Java game development framework",
+      "note": "Java 跨平台游戏框架",
+      "url": "https://github.com/libgdx/libgdx"
+    },
+    {
+      "repo": "phaserjs/phaser",
+      "category": "game",
+      "stars": 40704,
+      "language": "JavaScript",
+      "last_push": "2026-08-21",
+      "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 game",
+      "note": "2D 游戏框架",
+      "url": "https://github.com/phaserjs/phaser"
+    },
+    {
+      "repo": "4ian/GDevelop",
+      "category": "game",
+      "stars": 28765,
+      "language": "JavaScript",
+      "last_push": "2026-11-12",
+      "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed",
+      "note": "免代码游戏引擎",
+      "url": "https://github.com/4ian/GDevelop"
+    },
+    {
+      "repo": "cocos/cocos-engine",
+      "category": "game",
+      "stars": 9919,
+      "language": "C++",
+      "last_push": "2026-10-28",
+      "description": "Cocos simplifies game creation and distribution with Cocos Creator, a",
+      "note": "国产 3D 游戏引擎",
+      "url": "https://github.com/cocos/cocos-engine"
+    },
+    {
+      "repo": "excalidraw/excalidraw",
+      "category": "editor",
+      "stars": 135559,
+      "language": "TypeScript",
+      "last_push": "2026-11-11",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "note": "手绘风白板（应用，非库）",
+      "url": "https://github.com/excalidraw/excalidraw"
+    },
+    {
+      "repo": "tldraw/tldraw",
+      "category": "editor",
+      "stars": 51387,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "Build infinite canvas apps in React with the tldraw SDK. World's best,",
+      "note": "无限画布 SDK",
+      "url": "https://github.com/tldraw/tldraw"
+    },
+    {
+      "repo": "aseprite/aseprite",
+      "category": "editor",
+      "stars": 40883,
+      "language": "C++",
+      "last_push": "2026-11-10",
+      "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+      "note": "像素画编辑器",
+      "url": "https://github.com/aseprite/aseprite"
+    },
+    {
+      "repo": "GraphiteEditor/Graphite",
+      "category": "editor",
+      "stars": 27920,
+      "language": "Rust",
+      "last_push": "2026-11-12",
+      "description": "Community-built comprehensive 2D content creation appplication for gra",
+      "note": "开源 2D 内容创作套件",
+      "url": "https://github.com/GraphiteEditor/Graphite"
+    },
+    {
+      "repo": "liabru/matter-js",
+      "category": "physics",
+      "stars": 18619,
+      "language": "JavaScript",
+      "last_push": "2026-09-30",
+      "description": "a 2D rigid body physics engine for the web ▲● ■",
+      "note": "2D 刚体物理",
+      "url": "https://github.com/liabru/matter-js"
+    },
+    {
+      "repo": "dimforge/rapier",
+      "category": "physics",
+      "stars": 6060,
+      "language": "Rust",
+      "last_push": "2026-11-01",
+      "description": "2D and 3D physics engines focused on performance.",
+      "note": "高性能 3D 物理",
+      "url": "https://github.com/dimforge/rapier"
+    },
+    {
+      "repo": "pmndrs/cannon-es",
+      "category": "physics",
+      "stars": 2090,
+      "language": "TypeScript",
+      "last_push": "2024-01-06",
+      "description": "💣 A lightweight 3D physics engine written in JavaScript.",
+      "note": "three.js 生态常用物理引擎",
+      "url": "https://github.com/pmndrs/cannon-es"
+    },
+    {
+      "repo": "gkjohnson/three-mesh-bvh",
+      "category": "physics",
+      "stars": 3571,
+      "language": "JavaScript",
+      "last_push": "2026-11-12",
+      "description": "A BVH implementation to speed up raycasting and enable spatial queries",
+      "note": "加速射线检测与空间查询先",
+      "url": "https://github.com/gkjohnson/three-mesh-bvh"
+    },
+    {
+      "repo": "RayTracing/raytracing.github.io",
+      "category": "learn",
+      "stars": 10744,
+      "language": "HTML",
+      "last_push": "2026-08-10",
+      "description": "Main Web Site (Online Books)",
+      "note": "光线追踪入门书",
+      "url": "https://github.com/RayTracing/raytracing.github.io"
+    },
+    {
+      "repo": "lettier/3d-game-shaders-for-beginners",
+      "category": "learn",
+      "stars": 20042,
+      "language": "C++",
+      "last_push": "2023-06-25",
+      "description": "🎮 A step-by-step guide to implementing SSAO, depth of field, lighting",
+      "note": "手写 SSAO / 阴影 / 次表面散射",
+      "url": "https://github.com/lettier/3d-game-shaders-for-beginners"
+    },
+    {
+      "repo": "ekzhang/graphics-workshop",
+      "category": "learn",
+      "stars": 2184,
+      "language": "GLSL",
+      "last_push": "2021-10-25",
+      "description": "Learn computer graphics by writing GPU shaders!",
+      "note": "写 GPU shader 学图形学",
+      "url": "https://github.com/ekzhang/graphics-workshop"
+    },
+    {
+      "repo": "terkelg/awesome-creative-coding",
+      "category": "learn",
+      "stars": 15590,
+      "language": "HTML",
+      "last_push": "2026-07-21",
+      "description": "Creative Coding: Generative Art, Data visualization, Interaction Desig",
+      "note": "创意编程资源总表",
+      "url": "https://github.com/terkelg/awesome-creative-coding"
+    },
+    {
+      "repo": "hal9ai/awesome-dataviz",
+      "category": "learn",
+      "stars": 4459,
+      "language": "JavaScript",
+      "last_push": "2026-11-11",
+      "description": "A curated list of awesome data visualization libraries and resources.",
+      "note": "数据可视化资源总表",
+      "url": "https://github.com/hal9ai/awesome-dataviz"
+    },
+    {
+      "repo": "comfyanonymous/ComfyUI",
+      "category": "ai",
+      "stars": 146484,
+      "language": "Python",
+      "last_push": null,
+      "description": "The most powerful and modular diffusion model GUI",
+      "note": "节点式 AI 图像 / 视频生成",
+      "url": "https://github.com/comfyanonymous/ComfyUI"
+    },
+    {
+      "repo": "huggingface/diffusers",
+      "category": "ai",
+      "stars": 34914,
+      "language": "Python",
+      "last_push": "2026-11-12",
+      "description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and",
+      "note": "扩散模型的官方工具箱",
+      "url": "https://github.com/huggingface/diffusers"
+    },
+    {
+      "repo": "invoke-ai/InvokeAI",
+      "category": "ai",
+      "stars": 29076,
+      "language": "TypeScript",
+      "last_push": "2026-11-12",
+      "description": "Invoke is a leading creative engine that uses image and video generati",
+      "note": "面向创作者的 AI 绘图",
+      "url": "https://github.com/invoke-ai/InvokeAI"
+    }
+  ]
+}
